@@ -17,6 +17,7 @@ Je leert hoe je een toegankelijkheidstest kan uitvoeren en je presenteert je bev
 
 ## Werkwijze
 Deze opdracht gaat over [testen](#testen) van de DLC.
+Fork deze deeltaak en rapporteer je test in de Wiki.
 
 ### Testen
 <!-- *In de testfase test je of een website goed werkt.* -->
