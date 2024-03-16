@@ -1,4 +1,4 @@
-# All Human - WCAG Audit
+# WCAG Audit
 
 Doe een WCAG audit op een bestaande website en rapporteer daarover.
 
