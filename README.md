@@ -1,10 +1,9 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-
-> De instructie vind je in de [INSTRUCTIONS](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
-
 # WCAG Audit 
 
 Doe een WCAG test op een bestaande website en rapporteer daarover.
+
+De instructies van deze opdrachts staan in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
+ 
 
 ## Titel Website
 
