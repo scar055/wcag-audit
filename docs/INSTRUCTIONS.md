@@ -4,21 +4,22 @@ Doe een WCAG audit op een bestaande website en rapporteer daarover.
 
 ## Context
 
-Deze leertaak hoort bij sprint **All Human**. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint **All Human**. Dit is een deeltaak die je individueel uitvoert.
 
 In het college S03W1-01-Sprintplanning-All-Human-en-toegankelijkheid wordt behandeld hoe je een WCAG test kan uitvoeren.
 
-Deze deeltaak hoort bij de leertaak:
-- [All human - Accessible Website](https://github.com/fdnd-task/all-human-accessible-website)
+
 
 ## Doel van deze opdracht
 
 Je leert hoe je een toegankelijkheidstest kan uitvoeren en je presenteert je bevindingen.
 
 ## Werkwijze
-Deze opdracht gaat over [testen](#testen) van de DLC.
+<!-- Deze opdracht gaat over [testen](#testen) van de DLC. -->
 
 Fork deze deeltaak en documenteer je test in de Wiki.
+
+
 
 ### Testen
 <!-- *In de testfase test je of een website goed werkt.* -->
