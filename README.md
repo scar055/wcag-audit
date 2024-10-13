@@ -1,6 +1,6 @@
 # WCAG Audit 
 
-Doe een WCAG audit op een bestaande website en rapporteer daarover.
+Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
 De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/wcag-audit/blob/main/docs/INSTRUCTIONS.md).
  

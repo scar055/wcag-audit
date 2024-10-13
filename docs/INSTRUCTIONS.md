@@ -1,6 +1,6 @@
 # WCAG Audit
 
-Doe een WCAG audit op een bestaande website en rapporteer daarover.
+Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
 ## Context
 
@@ -16,17 +16,13 @@ Je leert hoe je een toegankelijkheidstest kan uitvoeren en je presenteert je bev
 
 ## Werkwijze
 
-Fork deze deeltaak en documenteer je test in de Wiki.
-
-
-### Testen
-<!-- *In de testfase test je of een website goed werkt.* -->
+Fork deze deeltaak, zet je Wiki aan bij Repository Settings en documenteer je test in de Wiki.
 
 Het is de verantwoordelijkheid van een frontender dat een website voor verschillende mensen, met verschillende apparaten, in verschillende situaties, _Toegankelijk_ is. Met goede code en een goed design kun je ervoor zorgen dat mensen met een (tijdelijke) beperking een website ook op een prettige manier kunnen bedienen.
 
 Stel je voor dat de gebruiker van jouw website niet kan zien, of kleurenblind is, of een website bedient met alleen het toetsenbord, of spastisch is, of een arm in het gips heeft. Of ...
 
-Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/)_ van het W3C. [The A11Y Project](https://www.a11yproject.com) is een goede plek om te lezen over toegankelijkheid, daar staat ook een [checklist](https://www.a11yproject.com/checklist/) waar een website aan moet voldoen. 
+Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/)_ van het W3C. [The A11Y Project](https://www.a11yproject.com) is een goede plek om te lezen over toegankelijkheid, daar staat ook een [checklist](https://www.a11yproject.com/checklist/) waar een website aan moet voldoen, en waarmee je je eigen site kunt controleren. 
 
 Voor het testen van toegankelijkheid kun je een website automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_ van Google. Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest in de Wiki van deze deeltaak.
 
