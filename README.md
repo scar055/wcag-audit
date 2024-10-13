@@ -1,17 +1,17 @@
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+Doe een WCAG audit op een bestaande website en rapporteer daarover.
 
-De instructies van deze opdrachts staan in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
+De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/wcag-audit/blob/main/docs/INSTRUCTIONS.md).
  
 
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 
 Toon een screenshot van het Lighthouse Accessibility testresultaat.
 
-Schrijf een samenvatting van de testbevindingen.
+Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie.
 
 ## Licentie
 
