@@ -29,6 +29,12 @@ Voor het testen van toegankelijkheid kun je een website automatisch testen in de
 1. Eerst ga je een [Lighthouse test](#1-lighthouse-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
 2. Daarna ga je [met de hand](#2-handmatige-tests) dezelfde website verder testen en documenteer je de bevindingen van de tests.
 
+### Bronnen documenteren
+
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ### 1. Lighthouse test
 
 Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium gebaseerde) browser kan uitvoeren. In de Devtools kun je Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse test.
@@ -81,7 +87,7 @@ Lighthouse is een geautomatiserde test, die veel voorkomende toegankelijkheidspr
 Deze opdracht is done als:
 
 - [ ] Je hebt een Lighthouse test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
-- [ ] Je hebt een _keyboard navigatie_ test gedaan op een bestaande website en gedocumenteerd in de wiki
-- [ ] Je hebt een _screen reader_ test gedaan op een bestaande website en gedocumenteerd in de wiki
-- [ ] Je hebt een _interactive elements_ test gedaan op een bestaande website en gedocumenteerd in de wiki
-- [ ] Je hebt een _headings and landmarks_ test gedaan op een bestaande website en gedocumenteerd in de wiki
+- [ ] Je hebt een _keyboard navigatie_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
+- [ ] Je hebt een _screen reader_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
+- [ ] Je hebt een _interactive elements_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
+- [ ] Je hebt een _headings and landmarks_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
