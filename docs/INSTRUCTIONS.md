@@ -2,10 +2,6 @@
 
 Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
-## Context
-
-Deze deeltaak hoort bij Sprint 3 **All Human**. Dit is een deeltaak die je individueel uitvoert.
-
 In de workshop S03W1-02-WCAG-audit wordt behandeld hoe je een WCAG audit kan uitvoeren.
 
 
