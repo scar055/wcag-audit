@@ -22,8 +22,9 @@ Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guide
 
 Voor het testen van toegankelijkheid kun je een website automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_ van Google. Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest in de Wiki van deze deeltaak.
 
-1. Eerst ga je een [Lighthouse test](#1-lighthouse-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
+1. Eerst ga je een [Lighthouse Accessibility test](#1-lighthouse-accessibility-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
 2. Daarna ga je [met de hand](#2-handmatige-tests) dezelfde website verder testen en documenteer je de bevindingen van de tests.
+3. Als laatste pas je de Readme van dit project aan, zodat je daar een korte samenvatting hebt staan
 
 ### Bronnen documenteren
 
@@ -31,9 +32,9 @@ Voor het testen van toegankelijkheid kun je een website automatisch testen in de
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### 1. Lighthouse test
+### 1. Lighthouse Accessibility test
 
-Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium gebaseerde) browser kan uitvoeren. In de Devtools kun je Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse test.
+Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium gebaseerde) browser kan uitvoeren. In de Devtools kun je Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse Accessibility test.
 
 #### Aanpak
 
@@ -43,22 +44,22 @@ Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium geb
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/1391509/195625978-c079cbb8-35d0-4bf3-a381-7a74aa24ebb3.png">
 
 - Run de test, maak een screenshot van de score en zet deze in de Wiki.
-- Bekijk het Lighthouse rapport en documenteer de problemen en de goede uitkomsten van de test in de Wiki. 
+- Bekijk het Lighthouse Accessibility rapport en documenteer de problemen en de goede uitkomsten van de test in de Wiki. 
 - Schrijf bij elk onderdeel in je eigen woorden wat het betekent. Vraag om hulp als je niet begrijpt wat de verschillende problemen betekenen.
 - Schrijf bij de problemen hoe je dit in code zou kunnen oplossen. Vraag om hulp als je het niet weet.
 
-#### Bronnen Lighthouse test
+#### Bronnen Lighthouse Accessibility test
 
  - [Test accessibility with Chrome DevTools @ YouTube](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
  - [Lighthouse documentation](https://developer.chrome.com/docs/lighthouse/accessibility/)
 
 ### 2. Handmatige tests
 
-Lighthouse is een geautomatiserde test, die veel voorkomende toegankelijkheidsproblemen kan testen. Echter, een geautomatiseerde test is _nooit_ voldoende om een website goed op toegankelijkheid te testen. Hiervoor moet je nog een aantal handmatige tests uitvoeren en beoordelen. In het Lighthouse rapport staan een aantal handmatige checks genoemd, maar ook op de website van The A11Y Project staat een checklist. Deze gaan we gebruiken om de bestaande website mee te testen.
+Lighthouse is een geautomatiserde test, die veel voorkomende toegankelijkheidsproblemen kan testen. Echter, een geautomatiseerde test is _nooit_ voldoende om een website goed op toegankelijkheid te testen. Hiervoor moet je nog een aantal handmatige tests uitvoeren en beoordelen. In het Lighthouse Accessibility rapport staan een aantal handmatige checks genoemd, maar ook op de website van The A11Y Project staat een checklist. Deze gaan we gebruiken om de bestaande website mee te testen.
 
 #### Aanpak
 
-- Lees de handmatige checks die in het Lighthouse rapport worden aanbevolen.
+- Lees de handmatige checks die in het Lighthouse Accessibility rapport worden aanbevolen.
 - Vergelijk de lijst met de checklist van de A11Y Project checklist. Je zult dan zien dat hier (ongeveer) dezelfde checks staan, maar dan anders georganiseerd.
 - Begin met het testen van de website met je _keyboard_, zoals beschreven in het artikel, “How To Do an Accessibility Review”.
 - Test de website met een _screen reader_, zoals beschreven in het artikel, “How To Do an Accessibility Review”.
@@ -78,6 +79,10 @@ Lighthouse is een geautomatiserde test, die veel voorkomende toegankelijkheidspr
  - [NVDA voor Windows](https://www.nvaccess.org/download/)
  - [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/)
 
+### 3. Readme aanpassen
+
+Maak een korte samenvatting in de Readme van deze repository.
+
 ## Definition of done
 
 Deze opdracht is done als:
@@ -87,3 +92,4 @@ Deze opdracht is done als:
 - [ ] Je hebt een _screen reader_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
 - [ ] Je hebt een _interactive elements_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
 - [ ] Je hebt een _headings and landmarks_ test gedaan op een bestaande website en gedocumenteerd in de Wiki
+- [ ] Je hebt een korte samenvatting in je Readme toegevoegd
