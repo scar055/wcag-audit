@@ -44,7 +44,7 @@ Lighthouse is een geautomatiseerde test, die je in een Chrome (of op Chromium ge
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/1391509/195625978-c079cbb8-35d0-4bf3-a381-7a74aa24ebb3.png">
 
 - Run de test, maak een screenshot van de score en zet deze in de Wiki.
-- Bekijk het Lighthouse Accessibility rapport en documenteer de problemen en de goede uitkomsten van de test in de Wiki. 
+- Bekijk het Lighthouse Accessibility rapport en documenteer van de test de problemen en de goede uitkomsten (“Passed audits”) die je opvallen in de Wiki.
 - Schrijf bij elk onderdeel in je eigen woorden wat het betekent. Vraag om hulp als je niet begrijpt wat de verschillende problemen betekenen.
 - Schrijf bij de problemen hoe je dit in code zou kunnen oplossen. Vraag om hulp als je het niet weet.
 
