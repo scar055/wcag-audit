@@ -1,4 +1,4 @@
-# WCAG Audit
+# WCAG audit
 
 Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
@@ -20,13 +20,13 @@ Stel je voor dat de gebruiker van jouw website niet kan zien, of kleurenblind is
 
 Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/)_ van het W3C. [The A11Y Project](https://www.a11yproject.com) is een goede plek om te lezen over toegankelijkheid, daar staat ook een [checklist](https://www.a11yproject.com/checklist/) waar een website aan moet voldoen, en waarmee je je eigen site kunt controleren. 
 
-Voor het testen van toegankelijkheid kun je een website automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_ van Google. Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest in de Wiki van deze deeltaak.
+Voor het testen van toegankelijkheid kun je een website onder andere automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_ van Google. Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest in de Wiki van deze deeltaak.
 
 1. Eerst ga je een [Lighthouse Accessibility test](#1-lighthouse-accessibility-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
 2. Daarna ga je [met de hand](#2-handmatige-tests) dezelfde website verder testen en documenteer je de bevindingen van de tests.
 3. Als laatste pas je de Readme van dit project aan, zodat je daar een korte samenvatting hebt staan
 
-### Bronnen documenteren
+### Bronnen over documenteren
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
@@ -34,7 +34,7 @@ Voor het testen van toegankelijkheid kun je een website automatisch testen in de
 
 ### 1. Lighthouse Accessibility test
 
-Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium gebaseerde) browser kan uitvoeren. In de Devtools kun je Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse Accessibility test.
+Lighthouse is een geautomatiseerde test, die je in een Chrome (of op Chromium gebaseerde) browser kan uitvoeren. In de Devtools kun je Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse Accessibility test.
 
 #### Aanpak
 
